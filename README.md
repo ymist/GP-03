@@ -1,3 +1,17 @@
+#Diagramas
+
+Estão localizados na pasta Documentação!
+
+(#P1) Documento de abertura do projeto
+
+(#P2) Diagramas de Casos de Uso
+
+(#P3) Diagramas de Sequência
+
+(#P3) Diagramas de Estado
+
+(#P3) Diagrama de Classe
+
 # Desenvolvedores:
 
 Kauan Pavan de Farias                                  RGM: 32614489
